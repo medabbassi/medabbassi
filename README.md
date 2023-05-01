@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medabbassi" alt="medabbassi" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Swift**
+- 🌱 I’m currently working on **Dart, Kotlin, Swift**
 
 - 👯 I’m looking to collaborate on **Flutter, Koltin, Swift**
 
